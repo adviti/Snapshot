@@ -1,0 +1,2 @@
+This repositiory contains code to create snapshot of a directoryi.e. the list of all  files and directories present in that particular directory.
+It also contains code to compare two snapshots.
